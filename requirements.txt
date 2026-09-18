@@ -1,0 +1,2 @@
+# Apenas o notebook 08 (algoritmo genético das 8 rainhas) precisa de dependência externa.
+matplotlib>=3.7
